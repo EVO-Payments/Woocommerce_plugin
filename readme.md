@@ -2,13 +2,6 @@
 
 ## EVOPayments Gateway for Woocommerce 
 
-Requires at least: 4.1  
-Tested up to: 4.9.5  
-Stable tag: 1.4.0  
-License: G  
-License URI:    
-Minimum WordPress Version: 5.2
-
 ## Description 
 
 EVOPayments Gateway for Woocommerce is a Wordpress plugin which allows you to accept payments on your Woocommerce store.
